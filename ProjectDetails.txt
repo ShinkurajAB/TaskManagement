@@ -1,0 +1,13 @@
+1) Admin Login
+     -Admin can login by using username and password as admin
+     -Admin page comtains 4 menus. Employees,Tasks,Assign Task & Status
+         - Add Employee 
+         - Add Task
+         -Assign task
+         - In status admin could see the details of assigned tasks
+        -Admin can search by employee name,task (back and forth) and by status
+
+
+2) User login
+      -User can login by using username and password as user
+      -User can view tasks assigned and filter by name and status

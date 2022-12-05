@@ -1,0 +1,86 @@
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.AssemblyReference.cache
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.SuggestedBindingRedirects.cache
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\CsvHelper.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\FontAwesome.Sharp.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Buffers.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Memory.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\CsvHelper.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Buffers.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Memory.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Dashboard.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormAssignTask.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormEmployees.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormStatus.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormTasks.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Login.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.cache
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CoreCompileInputs.cache
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CopyComplete
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.EmployeeTask.resources
+C:\PCM\Remya Works\TaskManagement\TaskManagement\obj\Debug\TaskManagement.UserDashBoard.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\CsvHelper.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Buffers.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Memory.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\CsvHelper.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Buffers.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Memory.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Dashboard.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.EmployeeTask.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormAssignTask.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormEmployees.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormStatus.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Forms.FormTasks.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Login.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.UserDashBoard.resources
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.cache
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CopyComplete
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\Users\IT3\Desktop\Shinkura\TaskManagement\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
